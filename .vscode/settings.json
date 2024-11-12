@@ -1,4 +1,0 @@
-{
-    "appService.deploySubpath": "build",
-    "appService.defaultWebAppToDeploy": "/subscriptions/c5bf4a00-c587-4d97-82a7-a8ee14ea1e05/resourceGroups/demo-rs-group-9095/providers/Microsoft.Web/sites/flight-web-app"
-}
